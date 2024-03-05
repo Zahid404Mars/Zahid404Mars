@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Zahid HAsan
-#### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://scontent.fdac178-1.fna.fbcdn.net/v/t39.30808-6/415001795_122116485932131823_5553630604927882074_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=9c7eae&_nc_ohc=YGwn0R45WP0AX_EqANc&_nc_ht=scontent.fdac178-1.fna&oh=00_AfAx7RUx2NsXabHs5tcRE1nJmpfH4WC367llRKRlYLooEg&oe=65EBCE1F)
 
 As a software engineering student, I immerse myself in technology, driven by a thirst for knowledge. I eagerly tackle coding challenges, from complex algorithms to debugging, with curiosity and determination. Collaboration is central to my approach, as I thrive in diverse, innovative environments. Detail-oriented and precise, I meticulously analyze problems for optimal solutions. Continuously exploring new technologies, I engage with the tech community, contributing to open-source projects. With a problem-solving mindset, I break down challenges and cultivate innovation for impactful contributions to the tech landscape.
