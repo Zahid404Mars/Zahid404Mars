@@ -6,8 +6,11 @@
 As a software engineering student, I immerse myself in technology, driven by a thirst for knowledge. I eagerly tackle coding challenges, from complex algorithms to debugging, with curiosity and determination. Collaboration is central to my approach, as I thrive in diverse, innovative environments. Detail-oriented and precise, I meticulously analyze problems for optimal solutions. Continuously exploring new technologies, I engage with the tech community, contributing to open-source projects. With a problem-solving mindset, I break down challenges and cultivate innovation for impactful contributions to the tech landscape.
 
 Skills: C / C++/ Java / JavaScript/HTML / CSS/Kotlin/PHP
+- 🔭 I’m currently working on C, C++ 
+- 🌱 I’m currently learning Android 
+- 😄 Pronouns: He/His 
+- ⚡ Fun fact:  Playing chess 
 
-- 🔭 I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Zahid404Mars)  
