@@ -4,22 +4,21 @@
 
 As a software engineering student, I immerse myself in technology, driven by a thirst for knowledge. I eagerly tackle coding challenges, from complex algorithms to debugging, with curiosity and determination. Collaboration is central to my approach, as I thrive in diverse, innovative environments. Detail-oriented and precise, I meticulously analyze problems for optimal solutions. Continuously exploring new technologies, I engage with the tech community, contributing to open-source projects. With a problem-solving mindset, I break down challenges and cultivate innovation for impactful contributions to the tech landscape.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: C / C++/ Java / JavaScript/HTML / CSS/Kotlin/PHP
 
 - 🔭 I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Zahid404Mars)  
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zahid404Mars)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zahid404Mars&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/Zahid404Mars)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Zahid404Mars)  
+
 
 
 
