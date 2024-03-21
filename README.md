@@ -13,6 +13,14 @@ Skills: C / C++/ Java / JavaScript/HTML / CSS/Kotlin/PHP
 - ⚡ Fun fact:  Playing chess
  - 📫 How to reach me **zahid2515@student.nstu.edu.bd**
 
+   
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmd-zahid-hasan-1a3198211%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app%26fbclid%3DIwAR0Bg8FK5_1e0FRmue-7uwNhCyO6dngUjHoKV7e7GQXSFBefvFiqYc_gKSw&h=AT111XmatF_ofmp24rEXA_5jgCXIOlzD66flq2vCpLfVkDx5JodETHGExf7NsKQw7nm8Ma0kCxQuP1aRbUCa1NIGjyvnddMrtYOEtDlQfgcw5JETjJffVRYPlF3vH1wz8s9jK2EOikh4O0iOtlvYFQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityajaiswal7" height="30" width="40" /></a>
+<a href="https://instagram.com/devopsshack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
+  
+</p>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Zahid404Mars)  
 
