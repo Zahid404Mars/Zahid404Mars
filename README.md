@@ -1,7 +1,7 @@
 #### Assalamualaikum, 
 # This  is Zahid Hasan
 <div align="center"> <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif"> </div>
-#### Software Engineering Student 
+
 As a software engineering student, I immerse myself in technology, driven by a thirst for knowledge. I eagerly tackle coding challenges, from complex algorithms to debugging, with curiosity and determination. Collaboration is central to my approach, as I thrive in diverse, innovative environments. Detail-oriented and precise, I meticulously analyze problems for optimal solutions. Continuously exploring new technologies, I engage with the tech community, contributing to open-source projects. With a problem-solving mindset, I break down challenges and cultivate innovation for impactful contributions to the tech landscape.
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Zahid404Mars&label=Profile%20views&color=0e75b6&style=flat" alt="Zahid404Mars" /> </p>
