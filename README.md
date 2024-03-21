@@ -9,7 +9,8 @@ Skills: C / C++/ Java / JavaScript/HTML / CSS/Kotlin/PHP
 - 🔭 I’m currently working on C, C++ 
 - 🌱 I’m currently learning Android 
 - 😄 Pronouns: He/His 
-- ⚡ Fun fact:  Playing chess 
+- ⚡ Fun fact:  Playing chess
+ - 📫 How to reach me **zahid2515@student.nstu.edu.bd**
 
 
 
