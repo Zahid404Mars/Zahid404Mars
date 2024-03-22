@@ -16,7 +16,7 @@ Skills: C / C++/ Java / JavaScript/HTML / CSS/Kotlin/PHP
    
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
-<a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmd-zahid-hasan-1a3198211%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app%26fbclid%3DIwAR0Bg8FK5_1e0FRmue-7uwNhCyO6dngUjHoKV7e7GQXSFBefvFiqYc_gKSw&h=AT111XmatF_ofmp24rEXA_5jgCXIOlzD66flq2vCpLfVkDx5JodETHGExf7NsKQw7nm8Ma0kCxQuP1aRbUCa1NIGjyvnddMrtYOEtDlQfgcw5JETjJffVRYPlF3vH1wz8s9jK2EOikh4O0iOtlvYFQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zahidhasan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-zahid-hasan-9630ba2bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zahidhasan" height="30" width="40" /></a>
 
 <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fzahidhasan005%3Figsh%3DMWtmc2NzNmtsdWF6eA%253D%253D%26utm_source%3Dqr%26fbclid%3DIwAR3izHQbjFSjPsHRmrc_DTXxpzl_k2huII1IvDFlms9ZakybUYGFen1Wlr0&h=AT16dPxiE5c6vpIVrYZFqyHQCgQUgDIBD0I70Gj0VMmVdYrm-vnqEi6-PeaREWIxCCR5a5Yc6UQMaKLEu2NNWU7bWxeOSusWyBhisffZ4rJ5XVUwUOXHhxEpcgA7s8z9jJ7VjLD8TLzf-mqdxspK5Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zahidhasan005" height="30" width="40" /></a>
 </p>
