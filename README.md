@@ -6,7 +6,7 @@ As a software engineering student, I immerse myself in technology, driven by a t
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Zahid404Mars&label=Profile%20views&color=0e75b6&style=flat" alt="Zahid404Mars" /> </p>
 
-Skills: C / C++/ Java / JavaScript/HTML / CSS/Kotlin/PHp
+Skills: C / C++/ Java / JavaScript/HTML / CSS/Kotlin/PHP
 - 🔭 I’m currently working on C, C++ 
 - 🌱 I’m currently learning Android 
 - 😄 Pronouns: He/His 
