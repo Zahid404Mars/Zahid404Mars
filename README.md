@@ -29,7 +29,7 @@ Skills: C / C++/ Java / JavaScript/HTML / CSS/Kotlin/PHP
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zahid404Mars&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Zahid404Mars) 
+
 
 
 
